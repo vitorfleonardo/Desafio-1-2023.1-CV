@@ -21,7 +21,8 @@ O candidato deve realizar um fork deste repositório para sua conta pessoal no G
 
 ## Requisitos não-funcionais
 
-- O candidato deve utilizar apenas HTML e CSS para solucionar o desafio, sendo proibido utilizar javascript ou bibliotecas de CSS, como Bootstrap, Tailwind, entre outras.
+- O candidato deve utilizar apenas HTML e CSS para solucionar o desafio, sendo proibido utilizar bibliotecas de CSS, como Bootstrap, Tailwind, entre outras.
+- A utilização de javascript é permitida, mas é opcional.
 - O currículo pode ter uma ou mais páginas, mas o usuário deve conseguir navegar em todo o site.
 - O código do projeto deve ser organizado, indentado e legível. Tão importante quanto um programa funcional é um código fonte fácil de modificar e entender.
 
