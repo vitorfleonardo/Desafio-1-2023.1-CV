@@ -28,7 +28,7 @@ Você deve realizar um [fork](https://docs.github.com/en/get-started/quickstart/
 - Caso tenha interesse, faça um currículo mais bonito que o exemplo dado.
   - Você poderá usar qualquer tag ou display presente no html e css, mas ainda não poderá utilizar bibliotecas de CSS.
 
-## Entrega
+## Entrega [(clique aqui para ver a entrega!)](https://vitorfleonardo.github.io/Desafio-1-2023.1-CV/)
 
 - A entrega do desafio deve ser realizada através de uma Release no GitHub.
   - Crie a release no seu repositório pessoal e envie o zip pelo google classroom.
