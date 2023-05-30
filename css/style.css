@@ -1,0 +1,198 @@
+/* [INICIO] Config geral */
+
+* 
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1
+{
+    font-size: 2.9em;
+    color: #3D5B97;
+}
+
+h2
+{
+    font-size: 2.2em;
+    color: #3D5B97;
+}
+
+h3
+{
+    font-size: 1.5em;
+    color: #8E9092;
+}
+
+p
+{
+    font-size: 1em;
+    color: #8E9092;
+    margin-top: 10px;
+}
+
+hr
+{
+    display: inline-block;
+    color: #E2E5E5;
+    border-bottom: white 1px solid;
+    width: 76.6px;
+    margin: 25px 15px 0 0;
+}
+
+.tipo
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tipo .caixa
+{
+    padding: 5px 8px;
+    background: #3D5B97;
+    color: #fff;
+}
+
+.colorido
+{
+    color: #3D5B97;
+}
+
+#foto img
+{
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+}
+
+/* [FIM] Config geral */
+
+/*--------------------------*/
+/* [INICIO] Config conteudo */
+/*--------------------------*/
+#container
+{
+    width: 1000px;
+	margin: 0 auto;
+}
+
+#conteudo
+{
+    margin-top: 60px;
+}
+
+/* Inicio - conteudo da esquerda */
+#esquerda
+{
+    width: 550px;
+    float: left;
+    margin: 0 100px 20px 0;
+}
+#contact /* Contatos*/
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 25px 0 0 0;
+}
+#contact .elemento
+{
+    font-size: 0.8em;
+    color: #8E9092;
+}
+#education /*Formação acadêmica e certificações*/
+{
+    margin: 65px 0 0 0;
+}
+#experience /*Experiência*/
+{
+    margin: 65px 0 0 0;
+}
+.section
+{
+    margin: 22px 0 0 0;
+}
+/* Fim - conteudo da esquerda */
+
+/* Inicio - conteudo da direita */
+#direita
+{
+    width: 350px;
+    float: left;
+}
+#philosofy
+{
+    margin: 70px 0 0 0;
+}
+#languages
+{
+    margin: 70px 0 0 0;
+}
+#skills
+{
+    margin: 70px 0 0 0;
+}
+#skills .tipo
+{
+    margin: 15px 0 0 0;
+    justify-content: left;
+}
+#skills .tipo .caixa
+{
+    margin: 0 15px 0 15px;
+}
+/* Fim - conteudo da direita */
+
+/*--------------------------*/
+/* [FIM] Config conteudo */
+/*--------------------------*/
+
+/* [INICIO] Config rodape */
+
+#container-rodape
+{
+    background: #294c71;
+    padding: 20px;
+}
+#rodape
+{
+    width: 1000px;
+    margin: 0 auto;
+    color: #fff;
+}
+.links
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.conteudo-link
+{
+    margin: 0 15px 0 15px;
+}
+a:link, a:visited
+{
+    text-decoration: none;
+    color: #FFF;
+}
+a:hover 
+{
+    color: #8E9092;
+}
+
+/* [FIM] Config rodape */
+
+
+
+
+
+
+
+
+
+
+
